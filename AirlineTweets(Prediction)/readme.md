@@ -1,4 +1,4 @@
-# Airlines Tweets
+# US Airline Tweets Sentiment
 
 The goals of this project is to understand the main reason behind the negative tweet about different airlines and build a sentiment prediction model for tweets.
 

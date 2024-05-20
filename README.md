@@ -12,9 +12,12 @@ In this project, I will utilize the publicly available dataset (Twitter US Airli
 3. Extract the downloaded files and place them in the appropriate directory in your project.
 
 ### Option 2: Using Kaggle API
-1. Ensure you have the Kaggle API installed. If not, install it using:
+Ensure you have the Kaggle API installed. If not, install it using:
    ```bash
    pip install kaggle
+
+## Installation
+
 
 First, I performed EDA to analyze and summarize some of the main characteristics of the dataset and get some insights about it. 
 Second, I have build a sentiment prediction model using XGBoost algorithm and DistilBERT llm.

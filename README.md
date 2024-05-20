@@ -15,15 +15,25 @@ In this project, I will utilize the publicly available dataset (Twitter US Airli
 Ensure you have the Kaggle API installed. If not, install it using:
    ```bash
    pip install kaggle
+   ```
 
 ## Installation
+1. Clone the repository:
+    ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
+   cd your-repo-name
+   ```
+2. Install the required Python packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
+## Usage   
+1. Ensure the dataset is in the correct directory.
+2. Open the Jupyter Notebook.
+3. Run the notebook cells to reproduce the analysis.
 
 
-First, I performed EDA to analyze and summarize some of the main characteristics of the dataset and get some insights about it. 
-Second, I have build a sentiment prediction model using XGBoost algorithm and DistilBERT llm.
-
-
-It seems there is a Github issue for redering the file. If you encounter any issues, please use the following nbviewer link to view the notebook:
+If you encounter issues viewing the notebook on GitHub, please use the following nbviewer link to view the notebook:
 
 https://nbviewer.org/github/eshaghjahangiri/Projects/blob/main/AirlineTweets%28Prediction%29/sentimentprediction-airlinetweets.ipynb
 

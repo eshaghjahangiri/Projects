@@ -7,7 +7,7 @@ The goals of this project is to understand the main reason behind the negative t
 In this project, I will utilize the publicly available dataset (Twitter US Airline Sentiment) on Kaggle. You can access the dataset in two ways: manually downloading from the Kaggle website or using the Kaggle API.
 
 ### Option 1: Manual Download
-1. Go to the Kaggle dataset page: [Kaggle Dataset URL]([https://www.kaggle.com/your-dataset-url](https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment/data)).
+1. Go to the Kaggle dataset page: [Kaggle Dataset URL](https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment/data).
 2. Click on the "Download" button to download the dataset.
 3. Extract the downloaded files and place them in the appropriate directory in your project.
 

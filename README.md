@@ -20,8 +20,8 @@ Ensure you have the Kaggle API installed. If not, install it using:
 ## Installation
 1. Clone the repository:
     ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   [git clone https://github.com/yourusername/your-repo-name.git](https://github.com/eshaghjahangiri/USAirlinesTweets_Sentiment.git)
+   cd USAirlinesTweets_Sentiment
    ```
 2. Install the required Python packages:
    ```bash
